@@ -1,1 +1,1 @@
-texsaw-ctf-2024
+Texsaw-CTF 2024
